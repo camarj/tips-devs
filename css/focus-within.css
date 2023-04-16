@@ -1,0 +1,6 @@
+/** Si deseas cambiar el color de fondo de un formulario 
+**cuando uno de sus campos de entrada tiene el foco, puedes utilizar este código: */
+
+form:focus-within {
+  background-color: lightblue;
+}

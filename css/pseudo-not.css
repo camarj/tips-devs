@@ -1,0 +1,5 @@
+/** Aplica estilo a todos los párrafos, excepto aquellos con clase .excluido. */
+
+p:not(.excluido) {
+  color: red;
+}
